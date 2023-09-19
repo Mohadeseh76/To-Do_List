@@ -3,6 +3,8 @@
 This readme provides an overview of the **To-Do List Application**, a Python application built using the PyQt5 library
 for managing tasks and to-do items. The application allows users to add, organize, and track their tasks in a simple and user-friendly interface.
 
+![Screenshot 2023-09-19 172735](https://github.com/Mohadeseh76/To-Do_List/assets/141071219/be39e626-26e5-44d1-8aa8-080adaf47f8f)
+
 ## Table of Contents
 1. [Features](#features)
 2. [Installation](#installation)
@@ -70,3 +72,4 @@ Contributions to this project are welcome. You can contribute by:
 
 ## License <a name="license"></a>
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
